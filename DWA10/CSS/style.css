@@ -85,3 +85,7 @@ body{
     background: var(--color-light-purple);
     transform: translateY(2%);
 }
+.alert_closable {
+    height: 50px;
+    width: 100%;
+}
